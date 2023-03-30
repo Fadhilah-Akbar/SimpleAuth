@@ -1,0 +1,15 @@
+E:\code\visual studio\SimpleAuth\SimpleAuth\bin\Debug\net6.0\SimpleAuth.exe
+E:\code\visual studio\SimpleAuth\SimpleAuth\bin\Debug\net6.0\SimpleAuth.deps.json
+E:\code\visual studio\SimpleAuth\SimpleAuth\bin\Debug\net6.0\SimpleAuth.runtimeconfig.json
+E:\code\visual studio\SimpleAuth\SimpleAuth\bin\Debug\net6.0\SimpleAuth.dll
+E:\code\visual studio\SimpleAuth\SimpleAuth\bin\Debug\net6.0\SimpleAuth.pdb
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.csproj.AssemblyReference.cache
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.AssemblyInfoInputs.cache
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.AssemblyInfo.cs
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.csproj.CoreCompileInputs.cache
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.dll
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\refint\SimpleAuth.dll
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.pdb
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\SimpleAuth.genruntimeconfig.cache
+E:\code\visual studio\SimpleAuth\SimpleAuth\obj\Debug\net6.0\ref\SimpleAuth.dll
